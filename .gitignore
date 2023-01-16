@@ -130,3 +130,4 @@ dmypy.json
 secrets.env
 help.py
 oi.smmx
+currencies.py
